@@ -1,5 +1,9 @@
 # Olá, eu sou Isaac Mesquita Moreira 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Python+e+Swift;Apaixonado+por+POO+e+IA+(Gemini+%2F+GPT)&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=3776AB" alt="Texto Digitado Isaac Mesquita">
+</p>
+
 Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia com foco em desenvolvimento e análise de sistemas.
 
 ---
@@ -12,14 +16,17 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia com foco em desenvolvim
 
 ---
 
-## 🛠️ Tecnologias e Linguagens
+## 🛠️ Tecnologias e Habilidades
 
 Minhas principais ferramentas e linguagens de estudo e trabalho:
 
 | Categoria | Habilidades |
 | :--- | :--- |
 | **Linguagens** | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| **Conceitos** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+| **Desenvolvimento/IDE** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Notebooks/Data** | ![Google Colab](https://img.shields.io/badge/Colaboratory-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) |
+| **Inteligência Artificial (IA)** | ![Gemini](https://img.shields.io/badge/Gemini-0D348B?style=for-the-badge&logo=google&logoColor=white) ![GPT](https://img.shields.io/badge/GPT-4A9A65?style=for-the-badge&logo=openai&logoColor=white) |
+| **Controle de Versão** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
