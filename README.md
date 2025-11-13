@@ -1,7 +1,7 @@
 # Olá, eu sou Isaac Mesquita Moreira 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Python+e+Swift;Apaixonado+por+POO+e+IA+%28Gemini+%2F+GPT%29&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=3776AB" alt="Texto Digitado Isaac Mesquita">
+  <img src="httpsK://readme-typing-svg.vercel.app/?lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Python+e+Swift;Apaixonado+por+POO+e+IA+%28Gemini+%2F+GPT%29&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=3776AB" alt="Texto Digitado Isaac Mesquita">
 </p>
 
 Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia com foco em desenvolvimento e análise de sistemas.
