@@ -1,47 +1,48 @@
 # Olá, eu sou Isaac Mesquita Moreira 👋
 
-Bem-vindo(a) ao meu espaço no GitHub! Sou um estudante de tecnologia focado em aprimorar minhas habilidades em desenvolvimento de software e análise de sistemas.
+Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia com foco em desenvolvimento e análise de sistemas.
 
 ---
 
-## 🧐 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Sou **Isaac Mesquita**, atualmente cursando **Análise e Desenvolvimento de Sistemas** no **UDF Centro Universitário**. Estou em constante busca por conhecimento, transformando teoria em prática por meio de projetos e atividades acadêmicas.
-
-Meu foco principal está em:
-* Desenvolvimento de software (com ênfase em **Swift** e **Python**).
-* Estruturas de dados e lógica de programação.
-* Gestão e desenvolvimento de projetos colaborativos.
+* **💭 Assuntos:** Análise e Desenvolvimento de Sistemas, Programação Orientada a Objetos (POO), Swift, Python, Lógica de Programação e Desenvolvimento Web.
+* **🎓 Formação:** Graduando em **Análise e Desenvolvimento de Sistemas** pelo UDF Centro Universitário.
+* **📚 Foco:** Transformar conceitos teóricos em projetos práticos e funcionais.
 
 ---
 
-## 🚀 Repositórios em Destaque
+## 🛠️ Tecnologias e Linguagens
 
-Aqui estão alguns dos projetos mais relevantes encontrados no meu perfil:
+Minhas principais ferramentas e linguagens de estudo e trabalho:
 
-| Projeto | Tecnologia Principal | Descrição |
+| Categoria | Habilidades |
+| :--- | :--- |
+| **Linguagens** | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Conceitos** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+
+---
+
+## 💡 Projetos em Destaque
+
+Alguns dos meus repositórios mais relevantes:
+
+| Projeto | Descrição | Tecnologia Principal |
 | :--- | :--- | :--- |
-| **`Poo-em-Swift`** | Swift | Repositório dedicado a estudos práticos de **Programação Orientada a Objetos (POO)** utilizando a linguagem Swift. |
-| **`gestao_colaborativa`** | Python | Projeto focado em demonstrar conceitos de gestão e desenvolvimento em um ambiente colaborativo, possivelmente utilizando **Python** para backend ou scripts. |
-| **`Tarefa-1`** / **`Tarefa-2`** | HTML | Atividades e tarefas que demonstram o domínio inicial de **marcação web** e conceitos de desenvolvimento. |
-| **`Certificados`** | N/A | Repositório utilizado para armazenar e organizar **certificados** de cursos e eventos, comprovando o aprendizado contínuo. |
-| **`AtividadesparaApresentacao_EstruturasCondicionaiseRepeticao`** | Swift | Material de apresentação e código focado em demonstrar a aplicação de estruturas de controle essenciais, como **condicionais e repetições** (laços). |
+| **`Poo-em-Swift`** | Implementação de conceitos de Programação Orientada a Objetos (POO). | Swift |
+| **`gestao_colaborativa`** | Demonstração de desenvolvimento e gestão de projetos em um ambiente colaborativo. | Python |
+| **`AtividadesparaApresentacao_EstruturasCondicionaiseRepeticao`** | Código de demonstração focado em estruturas de controle. | Swift |
+| **`Certificados`** | Repositório para organizar e manter um registro dos meus certificados e aprendizado contínuo. | N/A |
 
 ---
 
-## 🛠️ Tecnologias e Habilidades
+## 🌐 Conecte-se Comigo
 
-* **Linguagens:** Swift, Python, HTML.
-* **Conceitos:** Programação Orientada a Objetos (POO), Estruturas de Dados, Lógica de Programação, Desenvolvimento Web Básico.
-* **Ferramentas:** Git/GitHub.
-
----
-
-## 🤝 Conecte-se Comigo
-
-Sinta-se à vontade para entrar em contato e trocar ideias sobre tecnologia e desenvolvimento!
+Me encontre também no LinkedIn para falarmos sobre tecnologia e oportunidades!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mesquitam)
 
-***
-> **GitHub Profile:** [https://github.com/Isaac-M-M](https://github.com/Isaac-M-M)
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isaac-M-M&show_icons=true&theme=buefy" alt="GitHub Stats">
+</p>
