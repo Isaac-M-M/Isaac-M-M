@@ -1,3 +1,10 @@
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.vercel.app/?lines=Olá,+eu+sou+Isaac+Mesquita+Moreira!;Estudante+de+tecnologia;Focado+em+desenvolvimento+de+software;e+análise+de+sistemas.&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=3776AB)](https://git.io/typing-svg)
+</p>
+
+<p align="center">
+  <img width="398" height="198" alt="image" src="https://github.com/user-attachments/assets/72ebff2c-bbca-4465-8998-4e749b3252fd" />
+</p>
 
 <img width="398" height="198" alt="image" src="https://github.com/user-attachments/assets/080833cc-6479-4413-afec-bc8b8113a805" [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Ol%C3%A1%2C+eu+sou+Isaac+Mesquita+Moreira.;Sou+um+estudante+de+tecnologia.;Focado+em+desenvolvimento+de+software;e+an%C3%A1lise+de+sistemas.)](https://git.io/typing-svg)
  />
