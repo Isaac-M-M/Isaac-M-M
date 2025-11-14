@@ -1,6 +1,4 @@
 
-<img width="398" height="198" alt="image" src="https://github.com/user-attachments/assets/72ebff2c-bbca-4465-8998-4e749b3252fd" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Ol%C3%A1%2C+eu+sou+Isaac+Mesquita+Moreira.;Sou+um+estudante+de+tecnologia.;Focado+em+desenvolvimento+de+software;e+an%C3%A1lise+de+sistemas.)](https://git.io/typing-svg)
 
 
