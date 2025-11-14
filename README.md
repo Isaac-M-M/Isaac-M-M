@@ -1,6 +1,7 @@
-# Olá, eu sou Isaac Mesquita Moreira 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Ol%C3%A1%2C+eu+sou+Isaac+Mesquita+Moreira.;Sou+um+estudante+de+tecnologia.;Focado+em+desenvolvimento+de+software;e+an%C3%A1lise+de+sistemas.)](https://git.io/typing-svg)
+<img width="398" height="198" alt="image" src="https://github.com/user-attachments/assets/080833cc-6479-4413-afec-bc8b8113a805" [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Ol%C3%A1%2C+eu+sou+Isaac+Mesquita+Moreira.;Sou+um+estudante+de+tecnologia.;Focado+em+desenvolvimento+de+software;e+an%C3%A1lise+de+sistemas.)](https://git.io/typing-svg)
+ />
+
 
 Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia com foco em desenvolvimento e análise de sistemas.
 
