@@ -1,53 +1,60 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Olá,+eu+sou+Isaac+Mesquita+Moreira.;Desenvolvedor+Front-end+Júnior.;React+%7C+React+Native+%7C+JavaScript+%7C+TypeScript)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Ol%C3%A1%2C+eu+sou+Isaac+Mesquita+Moreira.;Sou+um+estudante+de+tecnologia.;Focado+em+desenvolvimento+de+software;e+an%C3%A1lise+de+sistemas.)](https://git.io/typing-svg)
-
-
-Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia com foco em desenvolvimento e análise de sistemas.
+Bem-vindo ao meu perfil! Sou desenvolvedor **Front-end Júnior**, com foco em **aplicações web e mobile**, buscando minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-* **💭 Assuntos:** Análise e Desenvolvimento de Sistemas, Programação Orientada a Objetos (POO), Swift, Python, Lógica de Programação e Desenvolvimento Web.
-* **🎓 Formação:** Graduando em **Análise e Desenvolvimento de Sistemas** pelo UDF Centro Universitário.
-* **📚 Foco:** Transformar conceitos teóricos em projetos práticos e funcionais.
+- 💻 **Área:** Desenvolvimento Front-end (Web e Mobile)
+- 🎓 **Formação:** Formado em **Análise e Desenvolvimento de Sistemas** – UDF Centro Universitário
+- 🚀 **Foco atual:** React, React Native, JavaScript e TypeScript
+- 📚 **Objetivo:** Construir aplicações práticas, bem estruturadas e conectadas a APIs reais
 
 ---
 
 ## 🛠️ Tecnologias e Habilidades
 
-Minhas principais ferramentas e linguagens de estudo e trabalho:
+### 🚀 Principais Tecnologias
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
-| Categoria | Habilidades |
-| :--- | :--- |
-| **Linguagens** | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| **Desenvolvimento/IDE** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| **Notebooks/Data** | ![Google Colab](https://img.shields.io/badge/Colaboratory-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) |
-| **Inteligência Artificial (IA)** | ![Gemini](https://img.shields.io/badge/Gemini-0D348B?style=for-the-badge&logo=google&logoColor=white) ![GPT](https://img.shields.io/badge/GPT-4A9A65?style=for-the-badge&logo=openai&logoColor=white) |
-| **Controle de Versão** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+### 🎨 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+### 📌 Outras Linguagens e Conhecimentos
+- Swift
+- Python
+- Programação Orientada a Objetos
+- Lógica de Programação
 
 ---
 
 ## 💡 Projetos em Destaque
 
-Alguns dos meus repositórios mais relevantes:
-
-| Projeto | Descrição | Tecnologia Principal |
-| :--- | :--- | :--- |
-| **`Poo-em-Swift`** | Implementação de conceitos de Programação Orientada a Objetos (POO). | Swift |
-| **`gestao_colaborativa`** | Demonstração de desenvolvimento e gestão de projetos em um ambiente colaborativo. | Python |
-| **`AtividadesparaApresentacao_EstruturasCondicionaiseRepeticao`** | Código de demonstração focado em estruturas de controle. | Swift |
-| **`Certificados`** | Repositório para organizar e manter um registro dos meus certificados e aprendizado contínuo. | N/A |
+| Projeto | Descrição | Tecnologia |
+|------|--------|------------|
+| **react-web-tarefas** | Aplicação web com CRUD, componentização e consumo de API REST. | React |
+| **react-native-tarefas** | Aplicação mobile com navegação entre telas e persistência de dados. | React Native |
+| **gestao_colaborativa** | Projeto acadêmico focado em organização e gestão de projetos. | Python |
+| **Poo-em-Swift** | Implementação prática de conceitos de POO. | Swift |
 
 ---
 
 ## 🌐 Conecte-se Comigo
 
-Me encontre também no LinkedIn para falarmos sobre tecnologia e oportunidades!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mesquitam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mesquitam)
 
 ---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaac-M-M&show_icons=true&theme=buefy" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isaac-M-M&show_icons=true&theme=buefy" />
 </p>
